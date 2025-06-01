@@ -181,7 +181,7 @@ const translations = {
 		contactUs_p: "We are always ready to hear from you. If you have any questions, suggestions or would like to work with us, please don't hesitate to get in touch. Our team will be happy to respond as quickly as possible to assist your needs.",
 
 		contactUs_item1_h4: "Address",
-		contactUs_item1_p: "Wahana Wisata Padusan Pacet Mojokerto Regency",
+		contactUs_item1_p: "Wana Wisata Padusan Pacet Mojokerto Regency",
 
 		contactUs_item2_h4: "Phone Number",
 		contactUs_item2_p: "Main: +62 85231659900",
@@ -369,7 +369,7 @@ const translations = {
 		contactUs_p: "Kami selalu siap untuk mendengar dari Anda. Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama dengan kami, jangan ragu untuk menghubungi kami. Tim kami akan dengan senang hati merespon secepat mungkin untuk membantu kebutuhan Anda.",
 
 		contactUs_item1_h4: "Alamat",
-		contactUs_item1_p: "Wahana Wisata Padusan Pacet Kabupaten Mojokerto",
+		contactUs_item1_p: "Wana Wisata Padusan Pacet Kabupaten Mojokerto",
 
 		contactUs_item2_h4: "Nomor Telepon",
 		contactUs_item2_p: "Utama: +62 85231659900",
