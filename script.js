@@ -400,7 +400,7 @@ function applyTranslations() {
 
 switcher.addEventListener("click", () => {
 	currentLang = currentLang === "en" ? "id" : "en";
-	switcher.textContent = currentLang === "en" ? "ID" : "EN";
+	switcher.textContent = currentLang === "en" ? "EN" : "ID";
 	applyTranslations();
 });
 
