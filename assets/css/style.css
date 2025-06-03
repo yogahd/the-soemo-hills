@@ -1173,9 +1173,20 @@ Video Gallery Style
 .video-card.enhanced-video video {
   width: 100%;
   aspect-ratio: 9 / 16;
-  object-fit: cover;
+  object-fit: contain;
+  /* ✅ Diperbaiki */
   border-radius: 25px;
   background-color: #000;
+}
+
+/* Fullscreen video compatibility */
+video:fullscreen,
+video:-webkit-full-screen,
+video:-moz-full-screen,
+video:-ms-fullscreen {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
 }
 
 /* Responsive layout */
