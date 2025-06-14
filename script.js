@@ -34,7 +34,6 @@ const translations = {
 		moreinfo_p2: "The Soemo Hills has two types of rooms, namely 22 glamping and 11 wooden houses and a villa. Each room provides comfort for a pleasant stay. You can enjoy relaxing and resting all night with the natural atmosphere of the mountains. Enjoy facilities such as a private jacuzzi, karaoke room, swimming pool and a restaurant offering traditional Indonesian and international dishes.",
 		moreinfo_p3: "The Soemo Hills Pacet is more than just a place to stay it's a hidden sanctuary where modern comfort meets the calm beauty of nature. The fresh air, serene atmosphere, and thoughtfully designed villas make every moment at The Soemo Hills feel relaxing and rejuvenating. Whether you're sipping coffee on the balcony at sunrise or enjoying a cozy night under the stars, The Soemo Hills brings you closer to nature while keeping you wrapped in comfort and style.",
 		moreinfo_button: "Read more . . .",
-		moreinfo_button: "Hide",
 
 		// Video Gallery
 		gallery_h6: "| GALLERY",
@@ -49,22 +48,22 @@ const translations = {
 		rooms_item1_span: "Type 1",
 		rooms_item1_h4: "Glamping",
 		rooms_item1_p: "Experience camping in the Padusan, Pacet area in an exclusive tent shaped room with complete facilities that you can enjoy with your beloved family.<br><br><br>",
-		rooms_item1_ul1: "<li>Bedsize: <span>King</span></li><li>Capacity: <span>2 persons</span></li><li>Bathroom: <span>1</span></li>",
+		rooms_item1_ul1: "<li>Bedding : <span>King Size</span></li><li>Capacity: <span>2 persons</span></li><li>Bathroom: <span>1</span></li>",
 		rooms_item1_ul2: "<li>Free: <br><span>Welcome drink for 2 persons</span><br><span>Breakfast for 2 persons</span><br><span>Karaoke 30 minutes</span></li>",
 		rooms_item1_ul3: "<li>Facilities: <br><span>Smart TV</span><br><span>Air Conditioning</span><br><span>Hot water kettle</span><br><span>Bathroom with hot water</span><br><span>Wi-fi</span></li>",
 
 		rooms_item2_span: "Type 2",
 		rooms_item2_h4: "Wooden House",
 		rooms_item2_p: "This room has a wooden house design that provides a home-like stay with a private jacuzzi in front that your family can enjoy. Enjoy the warm atmosphere of a wooden house in the middle of the cold forest at the foot of the Welirang Mountains.",
-		rooms_item2_ul1: "<li>Bedsize: <span>King and Single</span></li><li>Capacity: <span>3 persons</span></li><li>Bathroom: <span>1</span></li>",
+		rooms_item2_ul1: "<li>Bedding : <span>King Size and Single</span></li><li>Capacity: <span>3 persons</span></li><li>Bathroom: <span>1</span></li>",
 		rooms_item2_ul2: "<li>Free: <br><span>Welcome drink for 2 persons</span><br><span>Breakfast for 2 persons</span><br><span>Karaoke 30 minutes</span></li>",
 		rooms_item2_ul3: "<li>Facilities: <br><span>Smart TV</span><br><span>Air Conditioning</span><br><span>Hot water kettle</span><br><span>Bathroom with hot water</span><br><span>Wi-fi</span></li>",
 
 		rooms_item3_span: "Type 3",
 		rooms_item3_h4: "Villa",
 		rooms_item3_p: "This villa has private facilities such as a karaoke room and a private jacuzzi for your family. Let's wake up in the morning with a panoramic view of nature that makes the heart calm. Time for some real healing at The Soemo Hills!",
-		rooms_item3_ul1: "<li>Bedsize: <span>King</span></li><li>Capacity: <span>Up to 6 persons</span></li><li>Bathroom: <span>1</span></li>",
-		rooms_item3_ul2: "<li>Free: <br><span>Welcome drink</span><br><span>Breakfast</span></li>",
+		rooms_item3_ul1: "<li>Bedding : <span>King Size</span></li><li>Capacity: <span>Up to 6 persons</span></li><li>Bathroom: <span>1</span></li>",
+		rooms_item3_ul2: "<li>Free: <br><span>Welcome drink</span><br><span>Breakfast for 4 persons</span></li>",
 		rooms_item3_ul3: "<li>Facilities: <br><span>Private Jacuzzi and Karaoke</span><br><span>Smart TV</span><br><span>Air Conditioning</span><br><span>Hot water kettle</span><br><span>Bathroom with hot water</span><br><span>Wi-fi</span></li>",
 
 		rooms_whatsapp: "Book via WhatsApp",
@@ -85,27 +84,27 @@ const translations = {
 		aroundUs_item1_li1: '<span class="category">Swimming Pool</span><h4>Padusan Pool</h4>',
 		aroundUs_item1_li2: "<span>Distance:</span><h6>100 Meters</h6>",
 		aroundUs_item1_li3: "<span>Duration:</span><h6>5 Minutes</h6>",
-		aroundUs_item1_li4: "<span>Price:</span><h6>Rp 15.000 to <br>Rp 25.000</h6>",
+		aroundUs_item1_li4: "<span>Price:</span><h6>Idr 15.000 to <br>Idr 25.000</h6>",
 
 		aroundUs_item2_li1: '<span class="category">Garden</span><h4>Strawberry Garden</h4>',
 		aroundUs_item2_li2: "<span>Distance:</span><h6>200 Meters</h6>",
 		aroundUs_item2_li3: "<span>Duration:</span><h6>7 Minutes</h6>",
-		aroundUs_item2_li4: "<span>Price:</span><h6>Rp 10.000 to <br>Rp 15.000</h6>",
+		aroundUs_item2_li4: "<span>Price:</span><h6>Idr 10.000 to <br>Idr 15.000</h6>",
 
 		aroundUs_item3_li1: '<span class="category">Waterfall</span><h4>Grenjengan Waterfall</h4>',
 		aroundUs_item3_li2: "<span>Distance:</span><h6>400 Meters</h6>",
 		aroundUs_item3_li3: "<span>Duration:</span><h6>10 Minutes</h6>",
-		aroundUs_item3_li4: "<span>Price:</span><h6>Rp 5.000 to <br>Rp 10.000</h6>",
+		aroundUs_item3_li4: "<span>Price:</span><h6>Idr 5.000 to <br>Idr 10.000</h6>",
 
 		aroundUs_item4_li1: '<span class="category">Waterfall</span><h4>Coban Canggu Waterfall</h4>',
 		aroundUs_item4_li2: "<span>Distance:</span><h6>850 Meters</h6>",
 		aroundUs_item4_li3: "<span>Duration:</span><h6>15 Minutes</h6>",
-		aroundUs_item4_li4: "<span>Price:</span><h6>Rp 7.000 to <br>Rp 10.000</h6>",
+		aroundUs_item4_li4: "<span>Price:</span><h6>Idr 7.000 to <br>Idr 10.000</h6>",
 
 		aroundUs_item5_li1: '<span class="category">Swimming Pool</span><h4>Ubalan Waterpark</h4>',
 		aroundUs_item5_li2: "<span>Distance:</span><h6>100 Meters</h6>",
 		aroundUs_item5_li3: "<span>Duration:</span><h6>5 Minutes</h6>",
-		aroundUs_item5_li4: "<span>Price:</span><h6>Rp 30.000</h6>",
+		aroundUs_item5_li4: "<span>Price:</span><h6>Idr 30.000</h6>",
 
 		// Page Around Us
 		pageAroundUs_h1: "AROUND US",
@@ -257,7 +256,7 @@ const translations = {
 		rooms_item3_h4: "Villa",
 		rooms_item3_p: "Villa ini memiliki fasilitas pribadi seperti ruang karaoke dan jacuzzi pribadi untuk Anda sekeluarga. Mari bangun di pagi hari dengan panorama alam yang membuat hati tenang. Saatnya untuk mendapatkan ketenangan yang sesungguhnya di The Soemo Hills!",
 		rooms_item3_ul1: "<li>Ukuran Kasur: <span>Besar</span></li><li>Kapasitas: <span>Hingga 6 orang</span></li><li>Kamar mandi: <span>1</span></li>",
-		rooms_item3_ul2: "<li>Gratis: <br><span>Minuman selamat datang</span><br><span>Sarapan</span></li>",
+		rooms_item3_ul2: "<li>Gratis: <br><span>Minuman selamat datang</span><br><span>Sarapan untuk 4 orang</span></li>",
 		rooms_item3_ul3: "<li>Fasilitas: <br><span>Privat Jakuzi dan Karaoke</span><br><span>TV Pintar</span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
 
 		rooms_whatsapp: "Pesan melalui WhatsApp",
@@ -278,27 +277,27 @@ const translations = {
 		aroundUs_item1_li1: '<span class="category">Kolam Renang</span><h4>Kolam Padusan</h4>',
 		aroundUs_item1_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item1_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item1_li4: "<span>Harga:</span><h6>Rp 15.000 sampai <br>Rp 25.000</h6>",
+		aroundUs_item1_li4: "<span>Harga:</span><h6>Idr 15.000 sampai <br>Idr 25.000</h6>",
 
 		aroundUs_item2_li1: '<span class="category">Kebun</span><h4>Kebun Stroberi</h4>',
 		aroundUs_item2_li2: "<span>Jarak:</span><h6>200 Meter</h6>",
 		aroundUs_item2_li3: "<span>Durasi:</span><h6>7 Menit</h6>",
-		aroundUs_item2_li4: "<span>Harga:</span><h6>Rp 10.000 sampai <br>Rp 15.000</h6>",
+		aroundUs_item2_li4: "<span>Harga:</span><h6>Idr 10.000 sampai <br>Idr 15.000</h6>",
 
 		aroundUs_item3_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Grenjengan</h4>',
 		aroundUs_item3_li2: "<span>Jarak:</span><h6>400 Meter</h6>",
 		aroundUs_item3_li3: "<span>Durasi:</span><h6>10 Menit</h6>",
-		aroundUs_item3_li4: "<span>Harga:</span><h6>Rp 5.000 sampai <br>Rp 10.000</h6>",
+		aroundUs_item3_li4: "<span>Harga:</span><h6>Idr 5.000 sampai <br>Idr 10.000</h6>",
 
 		aroundUs_item4_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Coban Canggu</h4>',
 		aroundUs_item4_li2: "<span>Jarak:</span><h6>850 Meter</h6>",
 		aroundUs_item4_li3: "<span>Durasi:</span><h6>15 Menit</h6>",
-		aroundUs_item4_li4: "<span>Harga:</span><h6>Rp 7.000 sampai <br>Rp 10.000</h6>",
+		aroundUs_item4_li4: "<span>Harga:</span><h6>Idr 7.000 sampai <br>Idr 10.000</h6>",
 
 		aroundUs_item5_li1: '<span class="category">Kolam Renang</span><h4>Taman Air Ubalan</h4>',
 		aroundUs_item5_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item5_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item5_li4: "<span>Harga:</span><h6>Rp 30.000</h6>",
+		aroundUs_item5_li4: "<span>Harga:</span><h6>Idr 30.000</h6>",
 
 		// Page Around Us
 		pageAroundUs_h1: "SEKITAR KAMI",
@@ -346,7 +345,7 @@ const translations = {
 		pageAroundUs_article4_p1: "Air Terjun Coban Canggu menawarkan tempat peristirahatan yang damai bagi para pecinta alam, petualang, dan siapa saja yang mendambakan ketenangan di tengah keramaian kota. Dengan lingkungannya yang rimbun, udara pegunungan yang segar, dan suara air yang jatuh yang menenangkan, air terjun ini merupakan salah satu kekayaan alam terbaik di Jawa Timur.",
 		pageAroundUs_article4_p2: "Coban Canggu terletak di desa Padusan, sekitar 850 meter dari The Soemo Hills. Perjalanan menuju ke sana adalah bagian dari petualangan, dengan jalan berliku melalui perbukitan, hutan pinus, dan sawah yang memberikan Anda rasa keindahan alam di daerah tersebut. Setelah Anda tiba di pintu masuk, perjalanan singkat melalui jalan setapak yang indah akan membawa Anda ke air terjun. Jalan setapak ini relatif mudah dan terawat dengan baik, sehingga dapat diakses bahkan oleh pemula dan keluarga.",
 		pageAroundUs_article4_p3: "Air terjunnya sendiri memiliki tinggi sekitar 30 meter, mengalir menuruni tebing menuju kolam jernih yang dangkal dikelilingi bebatuan berlumut dan pepohonan yang lebat. Kabut sejuk yang naik dari dasar air terjun menambah suasana tenang, menjadikannya tempat yang tepat untuk bersantai, bermeditasi, atau sekadar menikmati keindahan alam. Bagi Anda yang berjiwa petualang, area di sekitar air terjun juga menawarkan kesempatan untuk eksplorasi ringan, fotografi, atau bahkan bermain air di kolam alami yang menyegarkan.",
-		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Rp 7.000 hingga Rp 10.000 per orang.",
+		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Idr 7.000 hingga Idr 10.000 per orang.",
 
 		pageAroundUs_article5_h1: "Taman Air Ubalan",
 		pageAroundUs_article5_span1: "Oleh Agil Fathiha Aulia Rahmi",
@@ -367,7 +366,7 @@ const translations = {
 		testimonials_item2_p: "Liburan yang lumayan menyenangkan dan suasana alam yang luar biasa. Ada private jaquzzi juga.",
 		testimonials_item3_p: "Cocok untuk pasangan maupun keluarga yang ingin merasakan sensasi tidur di tenda privat yang semuanya ada. Makanannya enak,dekata dengan tempat wisata,ada kolam air hangat pula. Jadi gak usah takut berenang karena air yang dingin.",
 		testimonials_item4_p: "Lokasi strategis dekat dengan air terjun Grenjengan jalan kaki -+ 5 menit, kamar aesthetic, pemnadangan sangat indah,gratis karaoke 30 menit,sarapan enak,pelayanan ramah.",
-		testimonials_item5_p: "Hawanya tenang, sejuk dan adem.Apalag musim hujan seperti ini. Cocok buat yang lagi setres pengen kabuur dari keramaian dan ngajak keluarga. Atau buat yang barusn menikah dan butuh honeymoon biar lebih mantap suasananya hehehe.",
+		testimonials_item5_p: "Hawanya tenang, sejuk dan adem apalagi musim hujan seperti ini. Cocok buat yang lagi setres pengen kabur dari keramaian dan ngajak keluarga. Atau buat yang barusn menikah dan butuh honeymoon biar lebih mantap suasananya hehehe.",
 		testimonials_item6_p: "Vibes nya nyaman kamarnya luas, pelayanannya sangat memuaskan.",
 		testimonials_item7_p: "Kamarnya luas bagus cukup untuk liburan dan istirahat viewnya bagus.",
 		testimonials_item8_p: "Overall udah oke sih, cuma memang gak nyangka akan sedingin ini untuk kami. Kids friendly yang pasti dan ada tempat untuk bermain buat anak, happy sekali bisa menghabiskan weekend di sini. Cuma mungkin next bisa sediakan sarapan yang lebih bisa dimakan untuk balita (tidak pedas). Thank u the soemo hills ",
