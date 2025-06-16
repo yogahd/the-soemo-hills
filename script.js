@@ -170,14 +170,14 @@ const translations = {
 		testimonials_p: "We appreciate every trust given by our clients and partners. Here are some of their feedback and experiences while working with us. These reviews motivate us to continue to provide the best service and build stronger relationships in the future.",
 
 		testimonials_item1_p: "The glamping experience at The Soemo Hills was amazing! The rooms are clean, comfortable, and designed with a pleasant natural feel. The facilities are complete, from soft beds to modern bathrooms that still give a natural impression.<br>The surrounding scenery is truly a feast for the eyes-green, beautiful and cool. The location is also strategic, perfect for those who want to ‘escape’ for a moment from the hustle and bustle of the city.",
-		testimonials_item2_p: "Quite a nice vacation and great natural atmosphere. There is a private jaquzzi too.",
-		testimonials_item3_p: "Suitable for couples and families who want to feel the sensation of sleeping in a private tent with everything. The food is delicious, close to tourist attractions, there is also a warm water pool. So, no need to be afraid to swim because of the cold water.",
-		testimonials_item4_p: "Strategic location close to Grenjengan waterfall on foot -+ 5 minutes, aesthetic room, very beautiful view, free karaoke 30 minutes, good breakfast, friendly service.",
-		testimonials_item5_p: "The weather is calm, cool and cool. Apalag rainy season like this. Suitable for those who are stressed and want to get away from the crowd and invite family. Or for those who just got married and need a honeymoon to make the atmosphere more stable hehehe.",
+		testimonials_item2_p: "It’s quite a nice vacation and great natural atmosphere. There is a private jaquzzi too.",
+		testimonials_item3_p: "It’s suitable for couples and families who want to feel the sensation of sleeping in a private tent with everything. The food is delicious, close to tourist attractions, there is also a warm water pool. So, no need to be afraid to swim because of the cold water.",
+		testimonials_item4_p: "It’s a strategic location close to Grenjengan Waterfall on a 5-minute walk. It has aesthetic room, very beautiful view, free karaoke 30 minutes, delicious breakfast, friendly service.",
+		testimonials_item5_p: "The weather is calm, cool even rainy season like today. It’s Suitable for those who are stressed and want to get away from the crowd and invite family. Or for those who just got married and need a honeymoon to make the atmosphere more stable hehehe.",
 		testimonials_item6_p: "The vibe is comfortable, the room is spacious, the service is very satisfying.",
 		testimonials_item7_p: "The spacious room is good enough for vacation and rest the view is good.",
-		testimonials_item8_p: "Overall it was okay, just didn't expect it to be this cold for us. It's friendly for sure and there is a place to play for children, very happy to spend the weekend here. Just maybe next can provide breakfast that is more edible for toddlers (not spicy). Thank u the soemo hills ",
-		testimonials_item9_p: "The room is clean and comfortable, the view is good there are many photo spots ",
+		testimonials_item8_p: "Overall it was okay, but I didn't expect it to be this cold for us. It's friendly for sure and there is a place to play for children, very happy to spend the weekend here. Hopefully, it can provide breakfast that is more edible for toddlers (not spicy). Thank you The Soemo Hills 👍",
+		testimonials_item9_p: "The room is clean and comfortable, the view is good there are many photo spots ❤",
 		testimonials_item10_p: "Alhamdulillah, the place is comfortable for refreshing.",
 
 		// Contact Us
