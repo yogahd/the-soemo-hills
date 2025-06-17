@@ -84,27 +84,27 @@ const translations = {
 		aroundUs_item1_li1: '<span class="category">Swimming Pool</span><h4>Padusan Pool</h4>',
 		aroundUs_item1_li2: "<span>Distance:</span><h6>100 Meters</h6>",
 		aroundUs_item1_li3: "<span>Duration:</span><h6>5 Minutes</h6>",
-		aroundUs_item1_li4: "<span>Price:</span><h6>Idr 15.000 to <br>Idr 25.000</h6>",
+		aroundUs_item1_li4: "<span>Price:</span><h6>IDR 15.000 to <br>IDR 25.000</h6>",
 
 		aroundUs_item2_li1: '<span class="category">Garden</span><h4>Strawberry Garden</h4>',
 		aroundUs_item2_li2: "<span>Distance:</span><h6>200 Meters</h6>",
 		aroundUs_item2_li3: "<span>Duration:</span><h6>7 Minutes</h6>",
-		aroundUs_item2_li4: "<span>Price:</span><h6>Idr 10.000 to <br>Idr 15.000</h6>",
+		aroundUs_item2_li4: "<span>Price:</span><h6>IDR 10.000 to <br>IDR 15.000</h6>",
 
 		aroundUs_item3_li1: '<span class="category">Waterfall</span><h4>Grenjengan Waterfall</h4>',
 		aroundUs_item3_li2: "<span>Distance:</span><h6>400 Meters</h6>",
 		aroundUs_item3_li3: "<span>Duration:</span><h6>10 Minutes</h6>",
-		aroundUs_item3_li4: "<span>Price:</span><h6>Idr 5.000 to <br>Idr 10.000</h6>",
+		aroundUs_item3_li4: "<span>Price:</span><h6>IDR 5.000 to <br>IDR 10.000</h6>",
 
 		aroundUs_item4_li1: '<span class="category">Waterfall</span><h4>Coban Canggu Waterfall</h4>',
 		aroundUs_item4_li2: "<span>Distance:</span><h6>850 Meters</h6>",
 		aroundUs_item4_li3: "<span>Duration:</span><h6>15 Minutes</h6>",
-		aroundUs_item4_li4: "<span>Price:</span><h6>Idr 7.000 to <br>Idr 10.000</h6>",
+		aroundUs_item4_li4: "<span>Price:</span><h6>IDR 7.000 to <br>IDR 10.000</h6>",
 
 		aroundUs_item5_li1: '<span class="category">Swimming Pool</span><h4>Ubalan Waterpark</h4>',
 		aroundUs_item5_li2: "<span>Distance:</span><h6>100 Meters</h6>",
 		aroundUs_item5_li3: "<span>Duration:</span><h6>5 Minutes</h6>",
-		aroundUs_item5_li4: "<span>Price:</span><h6>Idr 30.000</h6>",
+		aroundUs_item5_li4: "<span>Price:</span><h6>IDR 30.000</h6>",
 
 		// Page Around Us
 		pageAroundUs_h1: "AROUND US",
@@ -142,7 +142,7 @@ const translations = {
 		pageAroundUs_article3_p1: "In the middle of the cool mountainous area of Pacet, Mojokerto, there is a hidden gem that is still natural and not too crowded with tourists, namely Grenjengan Waterfall. Grenjengan Waterfall is located in Padusan Hamlet, Pacet District, Mojokerto. Surrounded by dense trees and natural rocks, the atmosphere around this waterfall is still very calm, perfect for those of you who want to unwind from the hustle and bustle of the city.",
 		pageAroundUs_article3_p2: "To reach the location of this waterfall, visitors need to walk about 10 to 15 minutes through a path and a small forest area. The path is quite challenging, it adds to the impression of adventure for nature lovers. Along the way, you will be treated to green scenery that soothes the eyes, and if you are lucky, you can hear the sounds of wild birds that inhabit the forest area.",
 		pageAroundUs_article3_p3: "Arriving at the waterfall, you can sit on the rocks, play in the water, or simply enjoy the silence of nature. Many visitors call this place suitable for “natural healing.”",
-		pageAroundUs_article3_p4: "Entrance tickets to Grenjengan Waterfall are usually very affordable, ranging from Rp5,000-Rp10,000 per person. Since it is still a natural tourism site that has not been commercialized much, the facilities here are quite simple but that is precisely the attraction for lovers of silence and wild nature.",
+		pageAroundUs_article3_p4: "Entrance tickets to Grenjengan Waterfall are usually very affordable, ranging from IDR 5,000 - IDR 10,000 per person. Since it is still a natural tourism site that has not been commercialized much, the facilities here are quite simple but that is precisely the attraction for lovers of silence and wild nature.",
 		pageAroundUs_article3_p5: "Some of the basic facilities available: a parking area, a local stall near the entrance, a fairly safe path, a simple gazebo for resting. The waterfall is only 400 meters away from The Soemo Hills Pacet.",
 
 		pageAroundUs_article4_h1: "Coban Canggu Waterfall",
@@ -277,27 +277,27 @@ const translations = {
 		aroundUs_item1_li1: '<span class="category">Kolam Renang</span><h4>Kolam Padusan</h4>',
 		aroundUs_item1_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item1_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item1_li4: "<span>Harga:</span><h6>Idr 15.000 sampai <br>Idr 25.000</h6>",
+		aroundUs_item1_li4: "<span>Harga:</span><h6>IDR 15.000 sampai <br>IDR 25.000</h6>",
 
 		aroundUs_item2_li1: '<span class="category">Kebun</span><h4>Kebun Stroberi</h4>',
 		aroundUs_item2_li2: "<span>Jarak:</span><h6>200 Meter</h6>",
 		aroundUs_item2_li3: "<span>Durasi:</span><h6>7 Menit</h6>",
-		aroundUs_item2_li4: "<span>Harga:</span><h6>Idr 10.000 sampai <br>Idr 15.000</h6>",
+		aroundUs_item2_li4: "<span>Harga:</span><h6>IDR 10.000 sampai <br>IDR 15.000</h6>",
 
 		aroundUs_item3_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Grenjengan</h4>',
 		aroundUs_item3_li2: "<span>Jarak:</span><h6>400 Meter</h6>",
 		aroundUs_item3_li3: "<span>Durasi:</span><h6>10 Menit</h6>",
-		aroundUs_item3_li4: "<span>Harga:</span><h6>Idr 5.000 sampai <br>Idr 10.000</h6>",
+		aroundUs_item3_li4: "<span>Harga:</span><h6>IDR 5.000 sampai <br>IDR 10.000</h6>",
 
 		aroundUs_item4_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Coban Canggu</h4>',
 		aroundUs_item4_li2: "<span>Jarak:</span><h6>850 Meter</h6>",
 		aroundUs_item4_li3: "<span>Durasi:</span><h6>15 Menit</h6>",
-		aroundUs_item4_li4: "<span>Harga:</span><h6>Idr 7.000 sampai <br>Idr 10.000</h6>",
+		aroundUs_item4_li4: "<span>Harga:</span><h6>IDR 7.000 sampai <br>IDR 10.000</h6>",
 
 		aroundUs_item5_li1: '<span class="category">Kolam Renang</span><h4>Taman Air Ubalan</h4>',
 		aroundUs_item5_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item5_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item5_li4: "<span>Harga:</span><h6>Idr 30.000</h6>",
+		aroundUs_item5_li4: "<span>Harga:</span><h6>IDR 30.000</h6>",
 
 		// Page Around Us
 		pageAroundUs_h1: "SEKITAR KAMI",
@@ -335,7 +335,7 @@ const translations = {
 		pageAroundUs_article3_p1: "Di tengah sejuknya kawasan pegunungan Pacet, Mojokerto, tersembunyi sebuah hidden gem yang masih alami dan belum terlalu ramai dikunjungi wisatawan, yakni Air Terjun Grenjengan. Air Terjun Grenjengan terletak di Dusun Padusan, Kecamatan Pacet, Mojokerto. Dikelilingi pepohonan lebat dan bebatuan alami, suasana di sekitar air terjun ini masih sangat tenang, cocok untuk anda yang ingin melepas penat dari hiruk-pikuk kota.",
 		pageAroundUs_article3_p2: "Untuk mencapai lokasi air terjun ini, pengunjung perlu berjalan kaki sekitar 10–15 menit melewati jalan setapak dan area hutan kecil. Jalurnya cukup menantang, tapi tidak terlalu sulit, justru menambah kesan petualangan bagi para pecinta alam. Di sepanjang perjalanan, anda akan disuguhi pemandangan hijau yang menyejukkan mata, dan jika beruntung, bisa mendengar suara burung liar yang menghuni kawasan hutan.",
 		pageAroundUs_article3_p3: "Sesampainya di air terjun, anda bisa duduk santai di pinggir bebatuan, bermain air, atau sekadar menikmati kesunyian alam. Banyak pengunjung menyebut tempat ini cocok untuk “healing alami.”",
-		pageAroundUs_article3_p4: "Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Rp5.000–Rp10.000 per orang. Karena masih tergolong wisata alam yang belum banyak dikomersialkan, fasilitas di sini cukup sederhana namun itu justru menjadi daya tarik tersendiri bagi pencinta keheningan dan alam liar.",
+		pageAroundUs_article3_p4: "Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara IDR 5.000 – IDR 10.000 per orang. Karena masih tergolong wisata alam yang belum banyak dikomersialkan, fasilitas di sini cukup sederhana namun itu justru menjadi daya tarik tersendiri bagi pencinta keheningan dan alam liar.",
 		pageAroundUs_article3_p5: "Beberapa fasilitas dasar yang tersedia: area parkir, warung warga lokal di dekat pintu masuk, jalan setapak yang cukup aman, gazebo sederhana untuk istirahat. Air terjun ini hanya berjarak 400 meter dari The Soemo Hills Pacet.",
 
 		pageAroundUs_article4_h1: "Air Terjun Coban Canggu",
@@ -345,7 +345,7 @@ const translations = {
 		pageAroundUs_article4_p1: "Air Terjun Coban Canggu menawarkan tempat peristirahatan yang damai bagi para pecinta alam, petualang, dan siapa saja yang mendambakan ketenangan di tengah keramaian kota. Dengan lingkungannya yang rimbun, udara pegunungan yang segar, dan suara air yang jatuh yang menenangkan, air terjun ini merupakan salah satu kekayaan alam terbaik di Jawa Timur.",
 		pageAroundUs_article4_p2: "Coban Canggu terletak di desa Padusan, sekitar 850 meter dari The Soemo Hills. Perjalanan menuju ke sana adalah bagian dari petualangan, dengan jalan berliku melalui perbukitan, hutan pinus, dan sawah yang memberikan Anda rasa keindahan alam di daerah tersebut. Setelah Anda tiba di pintu masuk, perjalanan singkat melalui jalan setapak yang indah akan membawa Anda ke air terjun. Jalan setapak ini relatif mudah dan terawat dengan baik, sehingga dapat diakses bahkan oleh pemula dan keluarga.",
 		pageAroundUs_article4_p3: "Air terjunnya sendiri memiliki tinggi sekitar 30 meter, mengalir menuruni tebing menuju kolam jernih yang dangkal dikelilingi bebatuan berlumut dan pepohonan yang lebat. Kabut sejuk yang naik dari dasar air terjun menambah suasana tenang, menjadikannya tempat yang tepat untuk bersantai, bermeditasi, atau sekadar menikmati keindahan alam. Bagi Anda yang berjiwa petualang, area di sekitar air terjun juga menawarkan kesempatan untuk eksplorasi ringan, fotografi, atau bahkan bermain air di kolam alami yang menyegarkan.",
-		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Idr 7.000 hingga Idr 10.000 per orang.",
+		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara IDR 7.000 hingga IDR 10.000 per orang.",
 
 		pageAroundUs_article5_h1: "Taman Air Ubalan",
 		pageAroundUs_article5_span1: "Oleh Agil Fathiha Aulia Rahmi",
