@@ -277,27 +277,27 @@ const translations = {
 		aroundUs_item1_li1: '<span class="category">Kolam Renang</span><h4>Kolam Padusan</h4>',
 		aroundUs_item1_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item1_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item1_li4: "<span>Harga:</span><h6>IDR 15.000 sampai <br>IDR 25.000</h6>",
+		aroundUs_item1_li4: "<span>Harga:</span><h6>Rp 15.000 sampai <br>Rp 25.000</h6>",
 
 		aroundUs_item2_li1: '<span class="category">Kebun</span><h4>Kebun Stroberi</h4>',
 		aroundUs_item2_li2: "<span>Jarak:</span><h6>200 Meter</h6>",
 		aroundUs_item2_li3: "<span>Durasi:</span><h6>7 Menit</h6>",
-		aroundUs_item2_li4: "<span>Harga:</span><h6>IDR 10.000 sampai <br>IDR 15.000</h6>",
+		aroundUs_item2_li4: "<span>Harga:</span><h6>Rp 10.000 sampai <br>Rp 15.000</h6>",
 
 		aroundUs_item3_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Grenjengan</h4>',
 		aroundUs_item3_li2: "<span>Jarak:</span><h6>400 Meter</h6>",
 		aroundUs_item3_li3: "<span>Durasi:</span><h6>10 Menit</h6>",
-		aroundUs_item3_li4: "<span>Harga:</span><h6>IDR 5.000 sampai <br>IDR 10.000</h6>",
+		aroundUs_item3_li4: "<span>Harga:</span><h6>Rp 5.000 sampai <br>Rp 10.000</h6>",
 
 		aroundUs_item4_li1: '<span class="category">Air Terjun</span><h4>Air Terjun Coban Canggu</h4>',
 		aroundUs_item4_li2: "<span>Jarak:</span><h6>850 Meter</h6>",
 		aroundUs_item4_li3: "<span>Durasi:</span><h6>15 Menit</h6>",
-		aroundUs_item4_li4: "<span>Harga:</span><h6>IDR 7.000 sampai <br>IDR 10.000</h6>",
+		aroundUs_item4_li4: "<span>Harga:</span><h6>Rp 7.000 sampai <br>Rp 10.000</h6>",
 
 		aroundUs_item5_li1: '<span class="category">Kolam Renang</span><h4>Taman Air Ubalan</h4>',
 		aroundUs_item5_li2: "<span>Jarak:</span><h6>100 Meter</h6>",
 		aroundUs_item5_li3: "<span>Durasi:</span><h6>5 Menit</h6>",
-		aroundUs_item5_li4: "<span>Harga:</span><h6>IDR 30.000</h6>",
+		aroundUs_item5_li4: "<span>Harga:</span><h6>Rp 30.000</h6>",
 
 		// Page Around Us
 		pageAroundUs_h1: "SEKITAR KAMI",
@@ -317,7 +317,7 @@ const translations = {
 		pageAroundUs_article1_p2: "Daya tarik utamanya adalah kolam pemandian air panas yang berasal dari sumber belerang alami Gunung Welirang. Air panas ini dipercaya memiliki banyak manfaat, seperti menghilangkan pegal-pegal, mengobati penyakit kulit ringan, dan melancarkan peredaran darah. Pengunjung dapat menikmati kolam rendam umum atau menyewa kolam renang pribadi untuk kenyamanan yang lebih.",
 		pageAroundUs_article1_p3: "Beberapa fasilitas yang bisa Anda nikmati di Pemandian Air Panas Padusan antara lain kolam renang air panas dan air dingin, kolam terapi belerang, ruang rendam pribadi, area bermain anak, warung makan dan pusat oleh-oleh, camping ground dan area outbond, serta area parkir yang luas.",
 		pageAroundUs_article1_p4: "Padusan sangat ramai dikunjungi pada akhir pekan dan hari libur, saat penduduk lokal dan pengunjung luar kota datang untuk menikmati keindahan alamnya. Namun, berkunjung pada hari kerja dapat menawarkan pengalaman yang lebih tenang dan lebih intim dengan alam. Kunjungan di pagi hari sangat disarankan, karena udaranya masih segar, kolam tidak terlalu ramai, dan pemandangan matahari terbit di atas perbukitan sangat menakjubkan.",
-		pageAroundUs_article1_p5: "Dari Kota Mojokerto, pemandian air panas ini dapat ditempuh dalam waktu sekitar 1-1,5 jam dengan mobil atau sepeda motor. Dengan akses jalan yang sudah bagus dan tersedianya banyak penunjuk arah, wisata ini dapat dengan mudah dikunjungi oleh siapa saja. Dengan akses jalan yang baik dan tersedianya banyak penunjuk arah, wisata ini dapat dengan mudah dikunjungi oleh siapa saja. Dan menariknya lagi, Pemandian Air Panas Padusan hanya berjarak 100 meter dari The Soemo Hills, Pacet jika berjalan kaki membutuhkan waktu sekitar 5 menit. Harga tiket masuknya pun cukup terjangkau, biasanya berkisar antara Rp15.000 hingga Rp25.000 per orang, tergantung hari dan jenis kolam yang dipilih.",
+		pageAroundUs_article1_p5: "Dari Kota Mojokerto, pemandian air panas ini dapat ditempuh dalam waktu sekitar 1-1,5 jam dengan mobil atau sepeda motor. Dengan akses jalan yang sudah bagus dan tersedianya banyak penunjuk arah, wisata ini dapat dengan mudah dikunjungi oleh siapa saja. Dengan akses jalan yang baik dan tersedianya banyak penunjuk arah, wisata ini dapat dengan mudah dikunjungi oleh siapa saja. Dan menariknya lagi, Pemandian Air Panas Padusan hanya berjarak 100 meter dari The Soemo Hills, Pacet jika berjalan kaki membutuhkan waktu sekitar 5 menit. Harga tiket masuknya pun cukup terjangkau, biasanya berkisar antara Rp 15.000 hingga Rp 25.000 per orang, tergantung hari dan jenis kolam yang dipilih.",
 
 		pageAroundUs_article2_h1: "Kebun Stroberi",
 		pageAroundUs_article2_span1: "Oleh Agil Fathiha Aulia Rahmi",
@@ -335,7 +335,7 @@ const translations = {
 		pageAroundUs_article3_p1: "Di tengah sejuknya kawasan pegunungan Pacet, Mojokerto, tersembunyi sebuah hidden gem yang masih alami dan belum terlalu ramai dikunjungi wisatawan, yakni Air Terjun Grenjengan. Air Terjun Grenjengan terletak di Dusun Padusan, Kecamatan Pacet, Mojokerto. Dikelilingi pepohonan lebat dan bebatuan alami, suasana di sekitar air terjun ini masih sangat tenang, cocok untuk anda yang ingin melepas penat dari hiruk-pikuk kota.",
 		pageAroundUs_article3_p2: "Untuk mencapai lokasi air terjun ini, pengunjung perlu berjalan kaki sekitar 10–15 menit melewati jalan setapak dan area hutan kecil. Jalurnya cukup menantang, tapi tidak terlalu sulit, justru menambah kesan petualangan bagi para pecinta alam. Di sepanjang perjalanan, anda akan disuguhi pemandangan hijau yang menyejukkan mata, dan jika beruntung, bisa mendengar suara burung liar yang menghuni kawasan hutan.",
 		pageAroundUs_article3_p3: "Sesampainya di air terjun, anda bisa duduk santai di pinggir bebatuan, bermain air, atau sekadar menikmati kesunyian alam. Banyak pengunjung menyebut tempat ini cocok untuk “healing alami.”",
-		pageAroundUs_article3_p4: "Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara IDR 5.000 – IDR 10.000 per orang. Karena masih tergolong wisata alam yang belum banyak dikomersialkan, fasilitas di sini cukup sederhana namun itu justru menjadi daya tarik tersendiri bagi pencinta keheningan dan alam liar.",
+		pageAroundUs_article3_p4: "Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Rp 5.000 – Rp 10.000 per orang. Karena masih tergolong wisata alam yang belum banyak dikomersialkan, fasilitas di sini cukup sederhana namun itu justru menjadi daya tarik tersendiri bagi pencinta keheningan dan alam liar.",
 		pageAroundUs_article3_p5: "Beberapa fasilitas dasar yang tersedia: area parkir, warung warga lokal di dekat pintu masuk, jalan setapak yang cukup aman, gazebo sederhana untuk istirahat. Air terjun ini hanya berjarak 400 meter dari The Soemo Hills Pacet.",
 
 		pageAroundUs_article4_h1: "Air Terjun Coban Canggu",
@@ -345,7 +345,7 @@ const translations = {
 		pageAroundUs_article4_p1: "Air Terjun Coban Canggu menawarkan tempat peristirahatan yang damai bagi para pecinta alam, petualang, dan siapa saja yang mendambakan ketenangan di tengah keramaian kota. Dengan lingkungannya yang rimbun, udara pegunungan yang segar, dan suara air yang jatuh yang menenangkan, air terjun ini merupakan salah satu kekayaan alam terbaik di Jawa Timur.",
 		pageAroundUs_article4_p2: "Coban Canggu terletak di desa Padusan, sekitar 850 meter dari The Soemo Hills. Perjalanan menuju ke sana adalah bagian dari petualangan, dengan jalan berliku melalui perbukitan, hutan pinus, dan sawah yang memberikan Anda rasa keindahan alam di daerah tersebut. Setelah Anda tiba di pintu masuk, perjalanan singkat melalui jalan setapak yang indah akan membawa Anda ke air terjun. Jalan setapak ini relatif mudah dan terawat dengan baik, sehingga dapat diakses bahkan oleh pemula dan keluarga.",
 		pageAroundUs_article4_p3: "Air terjunnya sendiri memiliki tinggi sekitar 30 meter, mengalir menuruni tebing menuju kolam jernih yang dangkal dikelilingi bebatuan berlumut dan pepohonan yang lebat. Kabut sejuk yang naik dari dasar air terjun menambah suasana tenang, menjadikannya tempat yang tepat untuk bersantai, bermeditasi, atau sekadar menikmati keindahan alam. Bagi Anda yang berjiwa petualang, area di sekitar air terjun juga menawarkan kesempatan untuk eksplorasi ringan, fotografi, atau bahkan bermain air di kolam alami yang menyegarkan.",
-		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara IDR 7.000 hingga IDR 10.000 per orang.",
+		pageAroundUs_article4_p4: "Terdapat fasilitas dasar yang tersedia di dekat pintu masuk, termasuk tempat parkir, warung makan kecil, dan tempat istirahat. Namun, disarankan untuk membawa air minum, makanan ringan, dan alas kaki yang sesuai untuk berjalan kaki. Kunjungan pagi hari adalah waktu yang ideal, karena udaranya masih segar dan cahaya matahari bersinar dengan indahnya di antara pepohonan. Pengunjung harus berjalan kaki sekitar 15 hingga 20 menit. Tiket masuk ke Air Terjun Grenjengan biasanya sangat terjangkau, berkisar antara Rp 7.000 hingga Rp 10.000 per orang.",
 
 		pageAroundUs_article5_h1: "Taman Air Ubalan",
 		pageAroundUs_article5_span1: "Oleh Agil Fathiha Aulia Rahmi",
@@ -434,6 +434,30 @@ readMoreBtn.addEventListener('click', () => {
 	readMoreParas.forEach(p => p.style.display = isReadMore ? 'block' : 'none');
 	readMoreBtn.textContent = isReadMore ? 'Hide' : 'Read more . . .';
 });
+
+/* 
+---------------------------------------------
+Video Gallery Functionally
+--------------------------------------------- 
+*/
+
+document.querySelectorAll('.youtube-thumbnail .thumbnail').forEach(function (thumbnail) {
+	thumbnail.addEventListener('click', function () {
+		const parent = this.parentElement;
+		const videoId = parent.getAttribute('data-video-id');
+		const iframe = document.createElement('iframe');
+
+		iframe.setAttribute('src', `https://www.youtube.com/embed/${videoId}?autoplay=1`);
+		iframe.setAttribute('frameborder', '0');
+		iframe.setAttribute('allowfullscreen', '');
+		iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+		iframe.className = 'youtube-embed';
+
+		parent.innerHTML = ''; // Hapus thumbnail
+		parent.appendChild(iframe);
+	});
+});
+
 
 /* 
 ---------------------------------------------

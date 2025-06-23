@@ -1163,28 +1163,58 @@ Video Gallery Style
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.video-card.enhanced-video:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.15);
+.youtube-thumbnail .thumbnail {
+  position: relative;
+  width: 100%;
+  padding-top: 177.78%;
+  /* 9:16 aspect ratio */
+  background-size: cover;
+  background-position: center;
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
 
-.video-card.enhanced-video video {
+.youtube-thumbnail .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 64px;
+  height: 64px;
+  background: url('https://img.icons8.com/ios-filled/100/fa314a/play-button-circled.png') no-repeat center center;
+  background-size: contain;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.youtube-thumbnail iframe {
   width: 100%;
   aspect-ratio: 9 / 16;
-  object-fit: contain;
-  /* ✅ Diperbaiki */
   border-radius: 25px;
-  background-color: #000;
+  border: none;
 }
 
-/* Fullscreen video compatibility */
-video:fullscreen,
-video:-webkit-full-screen,
-video:-moz-full-screen,
-video:-ms-fullscreen {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: contain !important;
+.fullscreen-button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  font-size: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 10;
+  transition: background 0.3s;
+}
+
+.fullscreen-button:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.video-wrapper {
+  position: relative;
 }
 
 /* Responsive layout */
