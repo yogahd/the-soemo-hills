@@ -34,6 +34,7 @@ const translations = {
 		moreinfo_p2: "The Soemo Hills has two types of rooms, namely 22 glamping and 11 wooden houses and a villa. Each room provides comfort for a pleasant stay. You can enjoy relaxing and resting all night with the natural atmosphere of the mountains. Enjoy facilities such as a private jacuzzi, karaoke room, swimming pool and a restaurant offering traditional Indonesian and international dishes.",
 		moreinfo_p3: "The Soemo Hills Pacet is more than just a place to stay it's a hidden sanctuary where modern comfort meets the calm beauty of nature. The fresh air, serene atmosphere, and thoughtfully designed villas make every moment at The Soemo Hills feel relaxing and rejuvenating. Whether you're sipping coffee on the balcony at sunrise or enjoying a cozy night under the stars, The Soemo Hills brings you closer to nature while keeping you wrapped in comfort and style.",
 		moreinfo_button: "Read more . . .",
+		moreinfo_button2: "Hide",
 
 		// Video Gallery
 		gallery_h6: "| GALLERY",
@@ -226,7 +227,7 @@ const translations = {
 		moreinfo_p2: "The Soemo Hills memiliki dua jenis kamar, yaitu 22 glamping dan 11 rumah kayu dan sebuah vila. Setiap kamar memberikan kenyamanan untuk pengalaman menginap yang menyenangkan. Anda dapat menikmati bersantai dan beristirahat sepanjang malam dengan suasana alam pegunungan. Nikmati juga fasilitas seperti jacuzzi pribadi, ruang karaoke, kolam renang, dan restoran yang menyajikan hidangan tradisional Indonesia dan internasional.",
 		moreinfo_p3: "The Soemo Hills Pacet lebih dari sekedar tempat menginap, namun juga merupakan tempat peristirahatan yang tersembunyi di mana kenyamanan modern berpadu dengan keindahan alam yang tenang. Udara yang segar, suasana yang tenang, dan kamar-kamar yang dirancang dengan baik membuat setiap momen di The Soemo Hills terasa santai dan menyegarkan. Baik saat Anda menyeruput kopi di balkon saat matahari terbit atau menikmati malam yang nyaman di bawah bintang-bintang, The Soemo Hills membawa Anda lebih dekat dengan alam sambil tetap terbungkus dalam kenyamanan dan gaya.",
 		moreinfo_button: "Baca lebih lanjut . . .",
-		moreinfo_button: "Sembunyikan",
+		moreinfo_button2: "Sembunyikan",
 
 		// Video Gallery
 		gallery_h6: "| GALERI",
@@ -422,17 +423,28 @@ Readmore Functionally
 --------------------------------------------- 
 */
 
-const readMoreBtn = document.getElementById('read-more-btn');
-const readMoreParas = [
-	document.getElementById('read-more-content'),
-	document.getElementById('read-more-content-2')
-];
-let isReadMore = false;
+document.addEventListener("DOMContentLoaded", function () {
+	const readMoreBtn = document.getElementById("read-more-btn");
+	const readMoreContent1 = document.getElementById("read-more-content");
+	const readMoreContent2 = document.getElementById("read-more-content-2");
 
-readMoreBtn.addEventListener('click', () => {
-	isReadMore = !isReadMore;
-	readMoreParas.forEach(p => p.style.display = isReadMore ? 'block' : 'none');
-	readMoreBtn.textContent = isReadMore ? 'Hide' : 'Read more . . .';
+	readMoreBtn.addEventListener("click", function () {
+		const isExpanded = readMoreContent1.style.display === "block";
+
+		if (isExpanded) {
+			readMoreContent1.style.display = "none";
+			readMoreContent2.style.display = "none";
+			readMoreBtn.id = "read-more-btn";
+			readMoreBtn.setAttribute("data-translate", "moreinfo_button");
+			readMoreBtn.textContent = currentLang === "id" ? "Baca lebih lanjut . . ." : "Read more . . .";
+		} else {
+			readMoreContent1.style.display = "block";
+			readMoreContent2.style.display = "block";
+			readMoreBtn.id = "read-more-btn2";
+			readMoreBtn.setAttribute("data-translate", "moreinfo_button2");
+			readMoreBtn.textContent = currentLang === "id" ? "Sembunyikan" : "Hide";
+		}
+	});
 });
 
 /* 
