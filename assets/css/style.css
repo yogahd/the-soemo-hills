@@ -1303,22 +1303,25 @@ Properties Style
 }
 
 .booking-buttons a {
-  display: inline-block;
-  padding: 12px 25px;
-  border-radius: 5px;
+  padding: 15px 30px;
+  /* Lebar dan tinggi tombol */
+  font-size: 18px;
+  /* Ukuran teks lebih besar */
+  border-radius: 8px;
+  /* Sudut membulat agar lebih elegan */
   font-weight: 600;
-  margin: 0 10px;
-  text-decoration: none;
-  transition: all 0.3s;
+  display: inline-block;
+  text-align: center;
 }
 
-.whatsapp-button {
+.booking-buttons a.whatsapp-button {
   background-color: #25D366;
   color: white;
+  margin-right: 10px;
 }
 
-.traveloka-button {
-  background-color: #6b5aff;
+.booking-buttons a.traveloka-button {
+  background-color: #6558F5;
   color: white;
 }
 
@@ -1329,6 +1332,13 @@ Properties Style
 
 .booking-buttons i {
   margin-right: 8px;
+}
+
+@media (max-width: 576px) {
+  .booking-buttons a {
+    font-size: 16px;
+    padding: 12px 24px;
+  }
 }
 
 /* 

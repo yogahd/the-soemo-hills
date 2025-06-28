@@ -31,20 +31,18 @@ const translations = {
 		moreinfo_span: "Who we are",
 		moreinfo_h2: "Get to know about <em>The Soemo Hills Pacet</em>",
 		moreinfo_p1: "The Soemo Hills is a resort established in 2021 that offers a camping atmosphere in the mountains, with complete facilities. Located in Wana Wisata Padusan Pacet Mojokerto which is close to many natural attractions of the mountains, this resort is suitable as a vacation spot for your family and partner. The Soemo Hills has a concept that combines glamping (glamor camping) with the beauty of the outdoors. Visitors can stay in aesthetic tents equipped with comfortable facilities while enjoying the beautiful mountain scenery.",
-		moreinfo_p2: "The Soemo Hills has two types of rooms, namely 22 glamping and 11 wooden houses and a villa. Each room provides comfort for a pleasant stay. You can enjoy relaxing and resting all night with the natural atmosphere of the mountains. Enjoy facilities such as a private jacuzzi, karaoke room, swimming pool and a restaurant offering traditional Indonesian and international dishes.",
+		moreinfo_p2: "The Soemo Hills has two types of rooms, namely 22 glamping units, 11 wooden houses and a villa. Each room provides comfort for a pleasant stay. You can enjoy relaxing and resting all night with the natural atmosphere of the mountains. Enjoy facilities such as a private jacuzzi, karaoke room, swimming pool and a restaurant offering traditional Indonesian and international dishes.",
 		moreinfo_p3: "The Soemo Hills Pacet is more than just a place to stay it's a hidden sanctuary where modern comfort meets the calm beauty of nature. The fresh air, serene atmosphere, and thoughtfully designed villas make every moment at The Soemo Hills feel relaxing and rejuvenating. Whether you're sipping coffee on the balcony at sunrise or enjoying a cozy night under the stars, The Soemo Hills brings you closer to nature while keeping you wrapped in comfort and style.",
 		moreinfo_button: "Read more . . .",
 		moreinfo_button2: "Hide",
 
 		// Video Gallery
-		gallery_h6: "| GALLERY",
 		gallery_h2: "Experience The Soemo Hills in Motion",
 		gallery_p1: "Watch our videos to get a glimpse of the unforgettable experiences awaiting you at The Soemo Hills Pacet.",
 		gallery_source: "Your browser does not support the video tag.",
 
 		// Rooms
-		rooms_h6: "| ROOMS",
-		rooms_h2: "Your Private Sanctuary Awaits",
+		rooms_h2: "Your Private Rooms Awaits",
 
 		rooms_item1_span: "Type 1",
 		rooms_item1_h4: "Glamping",
@@ -71,7 +69,6 @@ const translations = {
 		rooms_traveloka: "Book via Traveloka",
 
 		// Facilities
-		facilities_h6: "| FACILITIES",
 		facilities_h2: "Designed for Your Comfort and Convenience",
 		facilities_span1: "Karaoke",
 		facilities_span2: "Restaurant",
@@ -79,7 +76,6 @@ const translations = {
 		facilities_span4: "Jacuzzi",
 
 		// Around Us
-		aroundUs_h6: "| AROUND US",
 		aroundUs_h2: "Explore Hidden Gems Just Minutes Away",
 
 		aroundUs_item1_li1: '<span class="category">Swimming Pool</span><h4>Padusan Pool</h4>',
@@ -166,7 +162,6 @@ const translations = {
 		pageAroundUs_article5_p5: "One of the best things about Ubalan is that it’s incredibly affordable. Entry fee is IDR 30,000, making it an ideal choice for a budget-friendly outing. Its location is also convenient, easily accessible by car from Mojokerto city, and just a short drive from other popular tourist spots like the hot springs at Padusan, the waterfalls in the area, and the increasingly popular resort The Soemo Hills, around 1 kilometer away, and takes 5 minutes to drive. How? Are you interested in glamping at The Soemo Hills Pacet with your beloved partner and family while enjoying the beauty of the surrounding nature?",
 
 		// Testimonials
-		testimonials_h6: "| TESTIMONIALS",
 		testimonials_h2: "What they say about us?",
 		testimonials_p: "We appreciate every trust given by our clients and partners. Here are some of their feedback and experiences while working with us. These reviews motivate us to continue to provide the best service and build stronger relationships in the future.",
 
@@ -186,7 +181,7 @@ const translations = {
 		contactUs_p: "We are always ready to hear from you. If you have any questions, suggestions or would like to work with us, please don't hesitate to get in touch. Our team will be happy to respond as quickly as possible to assist your needs.",
 
 		contactUs_item1_h4: "Address",
-		contactUs_item1_p: "Wana Wisata Padusan Pacet Mojokerto Regency",
+		contactUs_item1_p: "Forest, Padusan, Pacet District, Mojokerto Regency",
 
 		contactUs_item2_h4: "Phone Number",
 		contactUs_item2_p: "Main: +62 85231659900",
@@ -230,41 +225,38 @@ const translations = {
 		moreinfo_button2: "Sembunyikan",
 
 		// Video Gallery
-		gallery_h6: "| GALERI",
 		gallery_h2: "Rasakan Sensasi Menikmati The Soemo Hills yang Bergerak",
 		gallery_p1: "Tonton video kami untuk melihat sekilas pengalaman tak terlupakan yang menanti Anda di The Soemo Hills Pacet.",
 		gallery_source: "Browser Anda tidak mendukung tag video.",
 
 		// Rooms
-		rooms_h6: "| KAMAR",
-		rooms_h2: "Tempat Perlindungan Pribadi Anda Menanti",
+		rooms_h2: "Kamar Pribadi Anda Menanti",
 
 		rooms_item1_span: "Tipe 1",
 		rooms_item1_h4: "Glamping",
 		rooms_item1_p: "Rasakan pengalaman camping di area Padusan, Pacet di dalam kamar berbentuk tenda eksklusif dengan fasilitas lengkap yang bisa anda nikmati bersama keluarga tercinta.<br><br><br>",
 		rooms_item1_ul1: "<li>Ukuran Kasur: <span>King</span></li><li>Kapasitas: <span>2 orang</span></li><li>Kamar mandi: <span>1</span></li>",
-		rooms_item1_ul2: "<li>Gratis: <br><span>Welcome drink untuk 2 orang</span><br><span>Sarapan untuk 2 orang</span><br><span>Karaoke 30 menit</span></li>",
-		rooms_item1_ul3: "<li>Fasilitas: <br><span>TV Pintar</span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
+		rooms_item1_ul2: "<li>Gratis: <br><span><i>Welcome drink</i> untuk 2 orang</span><br><span>Sarapan untuk 2 orang</span><br><span>Karaoke 30 menit</span></li>",
+		rooms_item1_ul3: "<li>Fasilitas: <br><span><i>Smart TV</i></span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
 
 		rooms_item2_span: "Tipe 2",
 		rooms_item2_h4: "Rumah Kayu",
-		rooms_item2_p: "Kamar ini memiliki desain rumah kayu yang memberikan pengalaman menginap seperti di rumah sendiri dengan jacuzzi pribadi di depan yang dapat dinikmati oleh keluarga Anda. Nikmati suasana hangat rumah kayu di tengah hutan yang dingin di kaki Pegunungan Welirang.",
+		rooms_item2_p: "Kamar ini memiliki desain rumah kayu yang memberikan pengalaman menginap seperti di rumah sendiri dengan jacuzzi pribadi di depan yang dapat dinikmati oleh keluarga anda. Nikmati suasana hangat rumah kayu di tengah hutan yang dingin di kaki Pegunungan Welirang.",
 		rooms_item2_ul1: "<li>Ukuran Kasur: <span>King dan Single</span></li><li>Kapasitas: <span>3 orang</span></li><li>Kamar mandi: <span>1</span></li>",
-		rooms_item2_ul2: "<li>Gratis: <br><span>Welcome drink untuk 2 orang</span><br><span>Sarapan untuk 2 orang</span><br><span>Karaoke 30 menit</span></li>",
-		rooms_item2_ul3: "<li>Fasilitas: <br><span>TV Pintar</span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
+		rooms_item2_ul2: "<li>Gratis: <br><span><i>Welcome drink</i> untuk 2 orang</span><br><span>Sarapan untuk 2 orang</span><br><span>Karaoke 30 menit</span></li>",
+		rooms_item2_ul3: "<li>Fasilitas: <br><span><i>Smart TV</i></span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
 
 		rooms_item3_span: "Tipe 3",
 		rooms_item3_h4: "Villa",
-		rooms_item3_p: "Villa ini memiliki fasilitas pribadi seperti ruang karaoke dan jacuzzi pribadi untuk Anda sekeluarga. Mari bangun di pagi hari dengan panorama alam yang membuat hati tenang. Saatnya untuk mendapatkan ketenangan yang sesungguhnya di The Soemo Hills!",
+		rooms_item3_p: "Villa ini memiliki fasilitas pribadi seperti ruang karaoke dan jacuzzi pribadi untuk anda sekeluarga. Mari bangun di pagi hari dengan panorama alam yang membuat hati tenang. Saatnya untuk mendapatkan ketenangan yang sesungguhnya di The Soemo Hills!",
 		rooms_item3_ul1: "<li>Ukuran Kasur: <span>King</span></li><li>Kapasitas: <span>Hingga 6 orang</span></li><li>Kamar mandi: <span>1</span></li>",
-		rooms_item3_ul2: "<li>Gratis: <br><span>Welcome drink</span><br><span>Sarapan untuk 4 orang</span></li>",
-		rooms_item3_ul3: "<li>Fasilitas: <br><span>Privat Jakuzi dan Karaoke</span><br><span>TV Pintar</span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
+		rooms_item3_ul2: "<li>Gratis: <br><span><i>Welcome drink</i></span><br><span>Sarapan untuk 4 orang</span></li>",
+		rooms_item3_ul3: "<li>Fasilitas: <br><span>Privat Jakuzi dan Karaoke</span><br><span><i>Smart TV</i></span><br><span>Pendingin Ruangan</span><br><span>Teko air panas</span><br><span>Kamar mandi dengan air panas</span><br><span>Wi-fi</span></li>",
 
 		rooms_whatsapp: "Pesan melalui WhatsApp",
 		rooms_traveloka: "Pesan melalui Traveloka",
 
 		// Facilities
-		facilities_h6: "| FASILITAS",
 		facilities_h2: "Didesain untuk Kenyamanan dan Kemudahan Anda",
 		facilities_span1: "Karaoke",
 		facilities_span2: "Restoran",
@@ -272,7 +264,6 @@ const translations = {
 		facilities_span4: "Jakuzi",
 
 		// Around Us
-		aroundUs_h6: "| SEKITAR KAMI",
 		aroundUs_h2: "Jelajahi Permata Tersembunyi yang Hanya Berjarak Beberapa Menit",
 
 		aroundUs_item1_li1: '<span class="category">Kolam Renang</span><h4>Kolam Padusan</h4>',
@@ -359,7 +350,6 @@ const translations = {
 		pageAroundUs_article5_p5: "Salah satu hal terbaik dari Ubalan adalah harganya yang sangat terjangkau. Biaya masuknya hanya Rp30.000, menjadikannya pilihan ideal untuk tamasya dengan anggaran terbatas. Lokasinya juga strategis, mudah dijangkau dengan mobil dari kota Mojokerto, dan hanya berjarak beberapa menit berkendara dari tempat wisata populer lainnya seperti pemandian air panas di Padusan, air terjun di daerah tersebut, dan resor yang sedang naik daun, The Soemo Hills, yang berjarak sekitar 1 km dan membutuhkan waktu 5 menit berkendara. Bagaimana? Anda tertarik untuk glamping di The Soemo Hills Pacet bersama pasangan dan keluarga tercinta sambil menikmati keindahan alam sekitar?",
 
 		// Testimonials
-		testimonials_h6: "| TESTIMONI",
 		testimonials_h2: "Apa yang mereka katakan tentang kami?",
 		testimonials_p: "Kami menghargai setiap kepercayaan yang diberikan oleh klien dan mitra kami. Berikut adalah beberapa tanggapan dan pengalaman mereka selama bekerja sama dengan kami. Ulasan-ulasan ini memotivasi kami untuk terus memberikan layanan terbaik dan membangun hubungan yang lebih kuat di masa depan.",
 
@@ -379,7 +369,7 @@ const translations = {
 		contactUs_p: "Kami selalu siap untuk mendengar dari Anda. Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama dengan kami, jangan ragu untuk menghubungi kami. Tim kami akan dengan senang hati merespon secepat mungkin untuk membantu kebutuhan Anda.",
 
 		contactUs_item1_h4: "Alamat",
-		contactUs_item1_p: "Wana Wisata Padusan Pacet Kabupaten Mojokerto",
+		contactUs_item1_p: "Hutan, Padusan Kecamatan Pacet, Kabupaten Mojokerto",
 
 		contactUs_item2_h4: "Nomor Telepon",
 		contactUs_item2_p: "Utama: +62 85231659900",
